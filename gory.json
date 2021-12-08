@@ -1,38 +1,38 @@
 [
     {
-        "Id": "1",
-        "Title": "Tatry",
-        "Name": ".",
-        "img":""
+        "id": "1",
+        "title": "Tatry",
+        "name": "Tatry",
+        "img":"https://www.tatry-przewodnik.com.pl/images/jaworowe-turnie-1.jpg"
     },
     {
-        "Id": "2",
-        "Title": "Bieszczady",
-        "Name": ".",
-        "img":""
+        "id": "2",
+        "title": "Bieszczady",
+        "name": "Bieszczady",
+        "img":"https://www.patrykbieganski.com/wp-content/uploads/2021/08/PAT_0501.jpg"
     },
     {
-        "Id": "3",
-        "Title": "Karpaty",
-        "Name": ".",
-        "img":""
+        "id": "3",
+        "title": "Karpaty",
+        "name": "Karpaty",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Morskie_oko_o_swicie.jpg/1200px-Morskie_oko_o_swicie.jpg"
     },
     {
-        "Id": "4",
-        "Title": "Bieszczady",
-        "Name": ".",
-        "img":""
+        "id": "4",
+        "title": "Sudety",
+        "name": "Sudety",
+        "img":"https://www.transpomat.pl/sites/default/files/inline-images/shutterstock_1338295532.jpg"
     },
     {
-        "Id": "5",
-        "Title": "Beskidy",
-        "Name": ".",
-        "img":""
+        "id": "5",
+        "title": "Beskidy",
+        "name": "Beskidy",
+        "img":"https://polskazachwyca.pl/wp-content/uploads/2017/10/beskidy-shutterstock_590590313-e1508935658496.jpg"
     },
     {
-        "Id": "6",
-        "Title": "Sowie",
-        "Name": ".",
-        "img":""
+        "id": "6",
+        "title": "Sowie",
+        "name": "Sowie",
+        "img":"https://michalkowepodroze.pl/wp-content/uploads/gory-sowie.jpg"
     }
 ]
